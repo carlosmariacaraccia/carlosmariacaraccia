@@ -12,10 +12,10 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=jetbrains-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=flat&logo=objc&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=flat&logo=objectivec&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Turicreate-informational?style=flat&logo=turicreate&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
@@ -24,8 +24,6 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
@@ -33,7 +31,7 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/carlosmariacaraccia
-[3]: https://www.linkedin.com/in/https://www.linkedin.com/in/carlos-maria-caraccia-380ab9128/n/
+[3]: https://www.linkedin.com/in/carlos-maria-caraccia-380ab9128/n/
 
 
 <!--
