@@ -5,6 +5,9 @@
 
 My name is Carlos Caraccia I'm an industrial and software engineer. I'm from Argentina living in Buenos Aires currently working in Meat Trade a familly business. You can find me on [![LinkedIn][3.2]][3]
 
+## &#x270d; Job description
+I currently work as a VP of the company, I'm also the founder of it. So we sell frozen boned & boneless beff all over the world. But my real passion is coding. I love to code, learn new stuff, solve problems, and build iOS apps.
+
 <!--
 **carlosmariacaraccia/carlosmariacaraccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
