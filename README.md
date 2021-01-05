@@ -3,7 +3,7 @@
 
 # Hi Fellows! <img src="https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/wave.gif" width="30px">
 
-My name is Carlos Caraccia I'm an industrial and software engineer. I'm from Argentina living in Buenos Aires currently working in Meat Trade a familly business. You can find me on [![LinkedIn][3.2]][3].
+My name is Carlos Caraccia I'm an industrial and software engineer. I'm from Argentina living in Buenos Aires currently working in Meat Trade a familly business. You can find me on [![LinkedIn][3.2]][3]
 
 <!--
 **carlosmariacaraccia/carlosmariacaraccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
