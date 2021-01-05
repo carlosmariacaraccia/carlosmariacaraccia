@@ -12,6 +12,7 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=flat&logo=objectivec&logoColor=white&color=2bbc8a)
