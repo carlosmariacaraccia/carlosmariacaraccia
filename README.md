@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/intro_banner.png "Header")]
+![Header](https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/intro_banner.png "Header")
 
 # Hi Fellows! <img src="https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/wave.gif" width="30px">
 
