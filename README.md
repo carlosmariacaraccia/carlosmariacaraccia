@@ -11,11 +11,12 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=jetbrains-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=flat&logo=objectivec&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Turicreate-informational?style=flat&logo=turi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Realm-informational?style=flat&logo=realm&logoColor=white&color=2bbc8a)
@@ -31,7 +32,7 @@ I currently work as a VP of the company, I'm also the founder of it. So we sell 
 [3]: https://www.linkedin.com/in/carlos-maria-caraccia-380ab9128/n/
 
 - 🔭 I’m currently working on an ML and iOS project.
-- 🌱 I’m currently learning SwiftUI, and more ML. 
+- 🌱 I’m currently learning more Swift, more UIKit, SwiftUI and more ML. 
 
 <!--
 **carlosmariacaraccia/carlosmariacaraccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
