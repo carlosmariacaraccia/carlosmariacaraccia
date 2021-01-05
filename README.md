@@ -1,4 +1,8 @@
-### Hi there 👋
+
+[![Header](https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/intro_banner.png "Header")]
+
+# Hi Fellows! <img src="https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/wave.gif" width="30px">
+
 
 <!--
 **carlosmariacaraccia/carlosmariacaraccia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
