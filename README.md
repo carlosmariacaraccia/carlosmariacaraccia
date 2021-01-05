@@ -9,13 +9,17 @@ My name is Carlos Caraccia I'm an industrial and software engineer. I'm from Arg
 I currently work as a VP of the company, I'm also the founder of it. So we sell frozen boned & boneless beff all over the world. But my real passion is coding. I love to code, learn new stuff, solve problems, and build iOS apps.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Objective-C-informational?style=flat&logo=ObjectiveC&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Turicreate-informational?style=flat&logo=Turicreate&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Realm-informational?style=flat&logo=Realm&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=flat&logo=objectivec&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Turicreate-informational?style=flat&logo=turi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Realm-informational?style=flat&logo=realm&logoColor=white&color=2bbc8a)
 
 
 <!-- icons without padding -->
