@@ -38,7 +38,7 @@ I currently work as a VP of the company, I'm also a co-founder of it. So we sell
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/carlosmariacaraccia/carlosmariacaraccia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmariacaraccia&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=4a148c&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmariacaraccia&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=4a148c" />
 </a>
 
 
