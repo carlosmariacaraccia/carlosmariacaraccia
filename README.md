@@ -33,7 +33,7 @@ I currently work as a VP of the company, I'm also a co-founder of it. So we sell
 [3]: https://www.linkedin.com/in/carlos-maria-caraccia-380ab9128/n/
 
 - 🔭 I’m currently working on an ML and iOS project.
-- 🌱 I’m currently learning more Swift, more UIKit, SwiftUI and more ML. 
+- 🌱 I’m currently learning more ML. 
 
 ## &#x1f4c8; GitHub Stats
 
