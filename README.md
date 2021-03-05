@@ -21,6 +21,7 @@ I currently work as a VP of the company, I'm also a co-founder of it. So we sell
 ![](https://img.shields.io/badge/Tool-Turicreate-informational?style=flat&logo=turi&logoColor=white&color=4a148c)
 ![](https://img.shields.io/badge/Tool-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=4a148c)
 ![](https://img.shields.io/badge/Tool-Realm-informational?style=flat&logo=realm&logoColor=white&color=4a148c)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4a148c)
 
 
 <!-- icons without padding -->
