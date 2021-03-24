@@ -3,10 +3,10 @@
 
 # Hi Fellows! <img src="https://raw.githubusercontent.com/carlosmariacaraccia/carlosmariacaraccia/master/wave.gif" width="30px">
 
-My name is Carlos Caraccia I'm an industrial and software engineer. I'm from Argentina and live in Buenos Aires. I'm currently working in Meat Trade, a familly business. You can find me on [![LinkedIn][3.2]][3] and search through my education and achievements.
+My name is Carlos Caraccia I'm an industrial and software engineer. I live in Buenos Aires, Argentina. I'm currently working in Meat Trade, a familly business. You can find me on [![LinkedIn][3.2]][3] and search through my education and achievements.
 
 ## &#x270d; Job description
-I currently work as a VP of the company, I'm also a co-founder of it. So we sell frozen boned & boneless beef all over the world (mainly in China, Rusia and Europe). But my real passion is coding. I love to code, learn new stuff, solve problems, and build iOS apps. @Meat Trade we use software to estimate cattle values, improve administrative processes, to have a better trazability of the goods we sell, and to efficiently track our stock.
+I currently work as the VP of the company, I'm also a co-founder of it. We sell frozen boned & boneless beef all over the world (mainly in China, Rusia and Europe). But my real passion is coding. I love to code, learn new stuff, solve problems, and build great iOS apps. @Meat Trade we use software to estimate cattle values, improve administrative processes, to have a better trazability of the goods we sell, and to efficiently track our stock.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=4a148c)
